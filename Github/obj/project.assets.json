@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\BH\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BH\\Documents\\POO\\Pyra-Mythra_POO012021\\Github\\Github.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\workspace\\POO\\Optativas\\git\\Pyra-Mythra_POO012021\\Github\\Github.csproj",
       "projectName": "Github",
-      "projectPath": "C:\\Users\\BH\\Documents\\POO\\Pyra-Mythra_POO012021\\Github\\Github.csproj",
-      "packagesPath": "C:\\Users\\BH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BH\\Documents\\POO\\Pyra-Mythra_POO012021\\Github\\obj\\",
+      "projectPath": "C:\\Users\\HP\\Documents\\workspace\\POO\\Optativas\\git\\Pyra-Mythra_POO012021\\Github\\Github.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\workspace\\POO\\Optativas\\git\\Pyra-Mythra_POO012021\\Github\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\BH\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
