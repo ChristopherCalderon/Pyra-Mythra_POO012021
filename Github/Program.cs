@@ -14,12 +14,12 @@ namespace Github
             Console.WriteLine("Enter a value for b:");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Adding {a} + {b} equals {addNumbers(a,b)}");
+            Console.WriteLine($"Substracting {a} + {b} equals {subsNumbers(a,b)}");
         }
 
-        public static int addNumbers(int a, int b)
+        public static int subsNumbers(int a, int b)
         {
-            return a+b;
+            return a-b;
         }
     }
 }
