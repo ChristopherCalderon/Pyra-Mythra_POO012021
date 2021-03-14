@@ -1,0 +1,16 @@
+C:\Users\BH\Documents\POO\Pyra-Mythra_POO012021\Github\bin\Debug\net5.0\Github.exe
+C:\Users\BH\Documents\POO\Pyra-Mythra_POO012021\Github\bin\Debug\net5.0\Github.deps.json
+C:\Users\BH\Documents\POO\Pyra-Mythra_POO012021\Github\bin\Debug\net5.0\Github.runtimeconfig.json
+C:\Users\BH\Documents\POO\Pyra-Mythra_POO012021\Github\bin\Debug\net5.0\Github.runtimeconfig.dev.json
+C:\Users\BH\Documents\POO\Pyra-Mythra_POO012021\Github\bin\Debug\net5.0\Github.dll
+C:\Users\BH\Documents\POO\Pyra-Mythra_POO012021\Github\bin\Debug\net5.0\ref\Github.dll
+C:\Users\BH\Documents\POO\Pyra-Mythra_POO012021\Github\bin\Debug\net5.0\Github.pdb
+C:\Users\BH\Documents\POO\Pyra-Mythra_POO012021\Github\obj\Debug\net5.0\Github.csprojAssemblyReference.cache
+C:\Users\BH\Documents\POO\Pyra-Mythra_POO012021\Github\obj\Debug\net5.0\Github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BH\Documents\POO\Pyra-Mythra_POO012021\Github\obj\Debug\net5.0\Github.AssemblyInfoInputs.cache
+C:\Users\BH\Documents\POO\Pyra-Mythra_POO012021\Github\obj\Debug\net5.0\Github.AssemblyInfo.cs
+C:\Users\BH\Documents\POO\Pyra-Mythra_POO012021\Github\obj\Debug\net5.0\Github.csproj.CoreCompileInputs.cache
+C:\Users\BH\Documents\POO\Pyra-Mythra_POO012021\Github\obj\Debug\net5.0\Github.dll
+C:\Users\BH\Documents\POO\Pyra-Mythra_POO012021\Github\obj\Debug\net5.0\ref\Github.dll
+C:\Users\BH\Documents\POO\Pyra-Mythra_POO012021\Github\obj\Debug\net5.0\Github.pdb
+C:\Users\BH\Documents\POO\Pyra-Mythra_POO012021\Github\obj\Debug\net5.0\Github.genruntimeconfig.cache
