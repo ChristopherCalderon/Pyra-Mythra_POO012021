@@ -14,7 +14,7 @@ namespace Github
             Console.WriteLine("Enter a value for b:");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Adding {a} x {b} equals {multNumbers(a,b)}");
+            Console.WriteLine($"Multiplying {a} x {b} equals {multNumbers(a,b)}");
         }
 
         public static int multNumbers(int a, int b)
